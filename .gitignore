@@ -3,3 +3,8 @@
 
 MetaCoin/.vscode/
 MetaCoin/build/
+
+petShop/.vscode/
+petShop/build/
+petShop/node_modules
+petShop/package-lock.json
